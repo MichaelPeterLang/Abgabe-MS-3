@@ -15,5 +15,13 @@ Das Original-Repository für dieses Projekt kann über den folgenden Link erreic
 
 [Original Repository](https://github.com/NICFRU/Projektrealisierung/tree/main)
 
-In diesem Repository finden Sie alle Originaldateien und -informationen, die für das Projekt benötigt werden. Es enthält den Code für die Textzusammenfassung und -klassifikation, das Frontend zur Interaktion und eine Reihe von Beispieltexten zur Demonstration und zum Testen. Es dient als zentrale Quelle für alle Projektressourcen und sollte als primärer Bezugspunkt.
+In diesem Repository finden Sie alle Originaldateien und -informationen, die für das Projekt benötigt werden. Es enthält den Code für die Textzusammenfassung und -klassifikation, das Frontend zur Interaktion und eine Reihe von Beispieltexten zur Demonstration und zum Testen. Es dient als zentrale Quelle für alle Projektressourcen und sollte als primärer Bezugspunkt genutzt werden. 
+
+##  Paraphrasierungsmodelle
+
+1. [Rezensions-Paraphrasierungsmodell](https://huggingface.co/NICFRU/bart-base-paraphrasing-review)
+2. [Geschichts-Paraphrasierungsmodell](https://huggingface.co/NICFRU/bart-base-paraphrasing-story)
+3. [Nachrichten-Paraphrasierungsmodell](https://huggingface.co/NICFRU/bart-base-paraphrasing-news)
+4. [Wissenschafts-Paraphrasierungsmodell](https://huggingface.co/NICFRU/bart-base-paraphrasing-science)
+
 
