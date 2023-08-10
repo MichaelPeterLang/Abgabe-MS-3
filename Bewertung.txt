@@ -1,0 +1,9 @@
+Meilenstein 1: 39,0
+Meilenstein 2: 6,0
+Meilenstein 3: 46,0
+
+Gesamtpunkte: 91,0
+Anzahl Teilnehmer: 4
+
+Peer-Evaluation
+Maximal zu verteilende Punkte: 364,0
